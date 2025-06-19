@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Ashraf</h1>
-<h3 align="center">A passionate mern stack developer from Estonia</h3>
+<h3 align="center">A passionate full stack developer from Estonia </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanashraf11&label=Profile%20views&color=0e75b6&style=flat" alt="nomanashraf11" /> </p>
 
@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **devops**
 
-- 👯 I’m looking to collaborate on **mern projects**
+- 👯 I’m looking to collaborate on **MERN projects**
 
-- 👨‍💻 All of my projects are available at [64da0627f606f929f6fbc87b--lucent-belekoy-825956.netlify.app/](64da0627f606f929f6fbc87b--lucent-belekoy-825956.netlify.app/)
+- 💬 Ask me about **web app developments and solutions**
 
-- 💬 Ask me about **nodejs**
 
-- 📄 Know about my experiences [64da0627f606f929f6fbc87b--lucent-belekoy-825956.netlify.app/](64da0627f606f929f6fbc87b--lucent-belekoy-825956.netlify.app/)
 
 - ⚡ Fun fact **I Love gym**
 
