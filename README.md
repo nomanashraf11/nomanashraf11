@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **devops**
 
-- 👯 I’m looking to collaborate on **MERN projects**
+- 👯 I’m looking to collaborate on projects**
 
 - 💬 Ask me about **web app developments and solutions**
 
