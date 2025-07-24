@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **SonarRx**
+- 🔭 I’m currently working on **LivingLegacyQr**
 
 - 🌱 I’m currently learning **devops**
 
